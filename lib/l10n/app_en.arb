@@ -1,0 +1,10 @@
+{
+  "helloWorld": "Hello World 2!",
+  "timeLine": "Products",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "@timeLine": {
+    "description": "App timeline view"
+  }
+}
